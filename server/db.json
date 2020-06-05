@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "myStream",
+      "description": "This is a great stream.",
+      "id": 13
+    },
+    {
+      "title": "Programmatic Routing",
+      "description": "Routing places other than component",
+      "userId": "116810629895497342128",
+      "id": 16
+    },
+    {
+      "title": "Edit test",
+      "description": "Refactor & edit",
+      "userId": "116810629895497342128",
+      "id": 17
+    }
+  ]
+}
